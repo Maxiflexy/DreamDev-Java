@@ -4,7 +4,7 @@ import java.util.List;
 import java.util.stream.Collectors;
 import java.util.stream.IntStream;
 
-public class Practice {
+public class PracticeExercise01 {
 
     public static void main(String[] args) {
         List<Integer> numbers = IntStream.rangeClosed(1, 20).boxed().toList();
