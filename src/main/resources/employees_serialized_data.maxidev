@@ -1,0 +1,26 @@
+[
+{
+  "firstName": "Maxi",
+  "lastName": "Kolbe",
+  "wagesPerHour": 120.0,
+  "hoursWorked": 5
+},
+{
+  "firstName": "Onye",
+  "lastName": "Kachi",
+  "wagesPerHour": 985.0,
+  "hoursWorked": 8
+},
+{
+  "firstName": "Samuel",
+  "lastName": "Okoro",
+  "wagesPerHour": 12.0,
+  "hoursWorked": 1250
+},
+{
+  "firstName": "Vivian",
+  "lastName": "Ejemba",
+  "wagesPerHour": 12.0,
+  "hoursWorked": 450
+}
+]
