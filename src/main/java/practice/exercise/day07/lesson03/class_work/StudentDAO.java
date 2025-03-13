@@ -1,4 +1,4 @@
-package practice.exercise.day07.lesson03;
+package practice.exercise.day07.lesson03.class_work;
 
 import java.util.List;
 
